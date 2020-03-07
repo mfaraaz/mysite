@@ -1,0 +1,107 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+p{
+  font-family: 'Cuprum', sans-serif;
+  font-size: 120%;
+}
+.main{
+  padding-top: 100px;
+  background-color: #eeeeee;
+  margin-top:0;
+  position: relative;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 50px auto 0;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #c10000;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #c10000;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #c10000;
+}
+.tcloud{
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+.bcloud{
+  position: absolute;
+}
+.p1{
+  margin: 0;
+}
+.rimg{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+.rimg2{
+  height: 150px;
+  width: 150px;
+}
+.footer-link{
+  text-decoration: none;
+  color: #c10000;
+}
+.btn{
+  color: #c10000;
+}
+.h2_1{
+  font-weight: normal;
+}
+.skill-row{
+  padding: inherit;
+  width: 50%;
+  margin:150px auto 100px auto;
+  text-align: left;
+}
+.comp-img{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+  border-radius: 100%;
+}
+.edi-img{
+  float: right;
+  margin-right : 30px;
+  width: 25%;
+}
+
+.horu{
+  border-style: dotted none none ;
+  border-width: 5px;
+  width: 5%;
+  color: grey;
+}
+.profile{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.bc{
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #dedede;
+}
+.gmail{
+  width:3%;
+}
+.social-media{
+  width: 2%;
+
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+a:hover{
+  color: #ff4949;
+}
